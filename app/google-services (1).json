@@ -59,14 +59,6 @@
       },
       "oauth_client": [
         {
-          "client_id": "399217514232-h01k8daik51i71i0gheo8j2ou8lr40vg.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.mathheals.finans_proje_odevi",
-            "certificate_hash": "d22825b872301501028f4814caf9a97224f7ebd6"
-          }
-        },
-        {
           "client_id": "399217514232-h8kjc6g77or3qo1i47n027ms4npa7sdl.apps.googleusercontent.com",
           "client_type": 3
         }
@@ -81,13 +73,8 @@
           "status": 1
         },
         "appinvite_service": {
-          "status": 2,
-          "other_platform_oauth_client": [
-            {
-              "client_id": "399217514232-h8kjc6g77or3qo1i47n027ms4npa7sdl.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
+          "status": 1,
+          "other_platform_oauth_client": []
         },
         "ads_service": {
           "status": 2
