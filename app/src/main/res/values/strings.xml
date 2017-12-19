@@ -1,7 +1,3 @@
 <resources>
-    <string name="app_name">Kullanici_Giris</string>
-    <string name="Email">Email</string>
-    <string name="Parola">Parola</string>
-    <string name="cikisyap">Çıkış Yap</string>
-    <string name="kullaniciSil">Kullanıcıyı Sil</string>
+    <string name="app_name">finans_proje_odevi</string>
 </resources>
